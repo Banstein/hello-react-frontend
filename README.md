@@ -1,46 +1,55 @@
-# Getting Started with Create React App and Redux
+## My Budget
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+> This is an app used for react rails tutorial.
 
-## Available Scripts
+## Screenshot
 
-In the project directory, you can run:
+![last](https://user-images.githubusercontent.com/35707975/183262341-519e4458-6298-45e5-8675-b8c3b2ee5653.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React
+- Rails
+- Psql
+- CSS
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+Start by cloning the repository.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`git@github.com:Banstein/hello-rails-backend.git`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Navigate to the created folder.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`cd hello-rails-backend`
+`cd hello-react-frontend`
 
-### `npm run eject`
+Start the development server
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+`rails server`
+`npm start`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Authors
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+👤 Islam Bahnas
 
-## Learn More
+- GitHub: [@Banstein](https://github.com/Banstein)
+- Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
+- LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Banstein/hello-rails-backend/issues).
+
+## Show your support
+
+Give a ⭐ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
